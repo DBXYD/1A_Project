@@ -1,5 +1,8 @@
 # ENSEA - Projet de 1ere année
 
+## Architecture du cours de conception de systèmes électronique
+
+[Cours Amphi 2023](/CM-2023)
 
 ## Objectifs :
 * Développement d'un projet, expression du besoin, réalisation et validation d'un système électronique,
