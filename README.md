@@ -1,6 +1,6 @@
 # ENSEA - Projet de 1ere année
 
-## Criètes d'évaluation : 
+## Critères d'évaluation : 
 * Participation dans le projet,
 * Qualité 
 
