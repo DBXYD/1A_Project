@@ -2,7 +2,6 @@
 
 ## Déroulé du cours
 
-* Départ d'un exemple : Drone
 * Etablissement du cahier des charges, 4 parties toujours présentes :
   * Alimentation,
   * Capteurs (ex : boutons utilisateurs, gyroscope, pression, micro, etc...)
@@ -20,4 +19,20 @@
     * Miniplanes, orienté drone, avion, voiture RC, batterie LiPo, Li-Ion, etc...
   * Lecture des datasheets
 * Réalisation d'un diagramme d'architecture
-* Transposition dans un logiciel de création de PCB (schematic)
+* Transposition dans un logiciel de création de PCB (schematic) :
+ * Association des empreintes à chaque schéma :
+  * Présentation des empreintes standard (footprint) :
+   * CMS/SMD vs THT
+    * Différences entre les technologie (espace, prix, dissipation thermiques, etc...)
+    * Liste des packages : 
+     * Résistances / condensateurs : 0201, 0402, 0603, 0805, etc...
+     * Formats : DIP, BGA, QFN, SO, HSOP, HTSSOP, QSOP, SOIC, SOP, SSO, SSOP, TSOP, TSSOP
+     * Connecteurs : Pin header/socket, JST-XH, Molex, etc...
+   * Types de condensateurs : céramique, électrolytique, tantale,
+  * Téléchargement des empreintes (snapeda)
+  * Réalisation des empreintes introuvables
+ 
+  
+
+
+## Etude à partir d'un exemple : Drone 
