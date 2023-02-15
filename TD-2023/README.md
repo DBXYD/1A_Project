@@ -104,7 +104,7 @@ Dans quel ordre placer ses composants
 
 ![kicad22.png](./sources_fiack/sujet/figures/kicad22.png)
 
-### 
+### Board Setup
 
 ![kicad24.png](./sources_fiack/sujet/figures/kicad24.png)
 
@@ -112,11 +112,16 @@ Dans quel ordre placer ses composants
 
 ![kicad26.png](./sources_fiack/sujet/figures/kicad26.png)
 
+### Netclass (à rajouter)
+### Plan de masse
+
 ![kicad27.png](./sources_fiack/sujet/figures/kicad27.png)
 
 ![kicad28.png](./sources_fiack/sujet/figures/kicad28.png)
 
 ![kicad29.png](./sources_fiack/sujet/figures/kicad29.png)
+
+### Gerber
 
 ![kicad30.png](./sources_fiack/sujet/figures/kicad30.png)
 
