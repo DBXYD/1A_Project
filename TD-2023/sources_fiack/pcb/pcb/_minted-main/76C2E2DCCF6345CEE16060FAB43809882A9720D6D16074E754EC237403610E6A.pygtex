@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+c1}{// Calcule les coefficients A, B et D}
+\PYG{c+c1}{// Et les stocke dans la structure}
+\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{RCFilterInit}\PYG{p}{(}\PYG{n}{hRCFilter\PYGZus{}t}\PYG{+w}{ }\PYG{o}{*}\PYG{+w}{ }\PYG{n}{hRCFilter}\PYG{p}{,}
+\PYG{+w}{        }\PYG{k+kt}{uint16\PYGZus{}t}\PYG{+w}{ }\PYG{n}{cutoffFrequency}\PYG{p}{,}\PYG{+w}{ }\PYG{k+kt}{uint16\PYGZus{}t}\PYG{+w}{ }\PYG{n}{samplingFrequency}\PYG{p}{);}
+\PYG{c+c1}{// Implémente l\PYGZsq{}équation de récurrence}
+\PYG{c+c1}{// Faites attention au type des différentes variables}
+\PYG{k+kt}{uint16\PYGZus{}t}\PYG{+w}{ }\PYG{n+nf}{RCFilterUpdate}\PYG{p}{(}\PYG{n}{hRCFilter\PYGZus{}t}\PYG{+w}{ }\PYG{o}{*}\PYG{+w}{ }\PYG{n}{hRCFilter}\PYG{p}{,}\PYG{+w}{ }\PYG{k+kt}{uint16\PYGZus{}t}\PYG{+w}{ }\PYG{n}{input}\PYG{p}{);}
+\end{Verbatim}

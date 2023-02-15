@@ -1,0 +1,24 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{+w}{    }\PYG{p}{[...]}
+\PYG{c+cm}{/* USER CODE BEGIN PV */}
+\PYG{n}{hShell\PYGZus{}t}\PYG{+w}{ }\PYG{n}{hShell}\PYG{p}{;}
+\PYG{c+cm}{/* USER CODE END PV */}
+\PYG{+w}{    }\PYG{p}{[...]}
+\PYG{k+kt}{int}\PYG{+w}{ }\PYG{n}{main}\PYG{p}{(}\PYG{k+kt}{void}\PYG{p}{)}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
+\PYG{+w}{        }\PYG{p}{[...]}
+\PYG{+w}{    }\PYG{c+cm}{/* USER CODE BEGIN 2 */}
+\PYG{+w}{    }\PYG{n}{ShellInit}\PYG{p}{(}\PYG{o}{\PYGZam{}}\PYG{n}{hShell}\PYG{p}{,}\PYG{+w}{ }\PYG{o}{\PYGZam{}}\PYG{n}{SerialTransmit}\PYG{p}{);}
+\PYG{+w}{    }\PYG{c+cm}{/* USER CODE END 2 */}
+\PYG{+w}{        }\PYG{p}{[...]}
+\PYG{+w}{    }\PYG{c+cm}{/* USER CODE BEGIN WHILE */}
+\PYG{+w}{    }\PYG{k}{while}\PYG{+w}{ }\PYG{p}{(}\PYG{l+m+mi}{1}\PYG{p}{)}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
+\PYG{+w}{        }\PYG{k+kt}{char}\PYG{+w}{ }\PYG{n}{c}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{SerialReceiveByte}\PYG{p}{();}
+\PYG{+w}{        }\PYG{n}{ShellProcess}\PYG{p}{(}\PYG{o}{\PYGZam{}}\PYG{n}{hShell}\PYG{p}{,}\PYG{+w}{ }\PYG{n}{c}\PYG{p}{);}
+\PYG{+w}{        }\PYG{c+cm}{/* USER CODE END WHILE */}
+
+\PYG{+w}{        }\PYG{c+cm}{/* USER CODE BEGIN 3 */}
+\PYG{+w}{    }\PYG{p}{\PYGZcb{}}
+\PYG{+w}{    }\PYG{c+cm}{/* USER CODE END 3 */}
+\PYG{p}{\PYGZcb{}}
+
+\end{Verbatim}

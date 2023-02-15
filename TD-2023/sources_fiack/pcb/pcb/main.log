@@ -1,0 +1,1630 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.28)  13 FEB 2023 17:05
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**./src/main.tex
+(./src/main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-04-10>
+(/usr/share/texmf-dist/tex/latex/exam/exam.cls
+Document Class: exam 2021/02/26 Version 2.7 by Philip Hirschhorn
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+\@extrawidth=\skip49
+\@rightmargin=\skip50
+\@extrahead=\skip51
+\@extrafoot=\skip52
+\run@exhd=\skip53
+\fp@exhd=\skip54
+\run@exft=\skip55
+\fp@exft=\skip56
+\covrun@exhd=\skip57
+\covfp@exhd=\skip58
+\covrun@exft=\skip59
+\covfp@exft=\skip60
+\c@num@coverpages=\count193
+\c@latest@ques=\count194
+\c@ques@end=\count195
+\c@last@object=\count196
+\c@incmp@ques=\count197
+\c@next@ques=\count198
+\c@next@page=\count199
+\c@tmp@hlfcntr=\count266
+\c@ifpos@cntr=\count267
+\c@question=\count268
+\c@partno=\count269
+\c@subpart=\count270
+\c@subsubpart=\count271
+\c@choice=\count272
+\c@numpoints=\count273
+\c@numbonuspoints=\count274
+\c@pointsof@thisquestion=\count275
+\c@bonuspointsof@thisquestion=\count276
+\c@numquestions=\count277
+\c@numparts=\count278
+\c@numsubparts=\count279
+\c@numsubsubparts=\count280
+\c@Curr@Page=\count281
+\c@@pagepoints=\count282
+\c@@pagebonuspoints=\count283
+\c@pageof@pagepoints=\count284
+\c@pageof@pagebonuspoints=\count285
+\c@latest@points=\count286
+\c@latest@bonuspoints=\count287
+\pageinfo@commands=\toks16
+\temp@toks=\toks17
+\pagepoint@commands=\toks18
+\point@toks=\toks19
+\c@ques@object=\count288
+\marginpointssep=\skip61
+\rightpointsmargin=\skip62
+\choice@toks=\toks20
+\answerlinelength=\skip63
+\answerskip=\skip64
+\answerclearance=\skip65
+\fillinlinelength=\skip66
+\linefillheight=\skip67
+\linefillthickness=\skip68
+\dottedlinefillheight=\skip69
+\gridsize=\skip70
+\gridlinewidth=\skip71
+\minboxheight=\skip72
+\c@@iterator=\count289
+\@cellwidth=\skip73
+\c@tbl@points=\count290
+\c@tbl@bonuspoints=\count291
+\c@pq@index=\count292
+\c@pq@index@pts=\count293
+\c@pq@index@bpts=\count294
+\c@num@cols=\count295
+\c@num@rows=\count296
+\c@current@row=\count297
+\c@cols@done=\count298
+\exam@box=\box50
+\saved@totalleftmargin=\dimen139
+\@sollistdepth=\count299
+\exam@FrameRule=\dimen140
+\exam@FrameSep=\dimen141
+)
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count300
+\U@D=\dimen142
+\l@unhyphenated=\language87
+
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count301
+
+(/usr/share/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2021/07/20 v3.5m French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language29). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language29). Reported on input line 92.
+\FB@nonchar=\count302
+Package babel Info: Making : an active character on input line 430.
+Package babel Info: Making ; an active character on input line 431.
+Package babel Info: Making ! an active character on input line 432.
+Package babel Info: Making ? an active character on input line 433.
+\FBguill@level=\count303
+\FBold@everypar=\toks21
+\FB@Mht=\dimen143
+\mc@charclass=\count304
+\mc@charfam=\count305
+\mc@charslot=\count306
+\std@mcc=\count307
+\dec@mcc=\count308
+\listindentFB=\dimen144
+\descindentFB=\dimen145
+\labelindentFB=\dimen146
+\labelwidthFB=\dimen147
+\leftmarginFB=\dimen148
+\parindentFFN=\dimen149
+\FBfnindent=\dimen150
+))
+(/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks23
+\inpenc@posthook=\toks24
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+(/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen153
+\captionmargin=\dimen154
+\caption@leftmargin=\dimen155
+\caption@rightmargin=\dimen156
+\caption@width=\dimen157
+\caption@indent=\dimen158
+\caption@parindent=\dimen159
+\caption@hangindent=\dimen160
+Package caption Info: Standard document class detected.
+Package caption Info: french babel package is loaded.
+)
+\c@caption@flags=\count309
+\c@continuedfloat=\count310
+)
+\c@subfigure=\count311
+\c@subtable=\count312
+)
+(/usr/share/texmf-dist/tex/latex/dejavu/dejavu.sty
+Package: dejavu 2011/07/27 Style file for DejaVu
+
+(/usr/share/texmf-dist/tex/latex/dejavu/DejaVuSansMono.sty
+Package: DejaVuSansMono 2011/06/01 Style file for DejaVuSansMono.
+)
+(/usr/share/texmf-dist/tex/latex/dejavu/DejaVuSans.sty
+Package: DejaVuSans 2011/06/01 Style file for DejaVuSans.
+)
+(/usr/share/texmf-dist/tex/latex/dejavu/DejaVuSerif.sty
+Package: DejaVuSerif 2011/06/01 Style file for DejaVuSerif.
+))
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+DejaVuSans-TLF on in
+put line 112.
+
+(/usr/share/texmf-dist/tex/latex/dejavu/T1DejaVuSans-TLF.fd
+File: T1DejaVuSans-TLF.fd 2011/10/30 Font definitions for T1/DejaVuSans-TLF.
+))
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count313
+\Gm@cntv=\count314
+\c@Gm@tempcnt=\count315
+\Gm@bindingoffset=\dimen161
+\Gm@wd@mp=\dimen162
+\Gm@odd@mp=\dimen163
+\Gm@even@mp=\dimen164
+\Gm@layoutwidth=\dimen165
+\Gm@layoutheight=\dimen166
+\Gm@layouthoffset=\dimen167
+\Gm@layoutvoffset=\dimen168
+\Gm@dimlist=\toks25
+)
+(/usr/share/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
+)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen169
+\Hy@linkcounter=\count316
+\Hy@pagecounter=\count317
+
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count318
+
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count319
+
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen170
+
+(/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count320
+\Field@Width=\dimen171
+\Fld@charsize=\dimen172
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+
+(/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count321
+\c@Item=\count322
+\c@Hfootnote=\count323
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+
+(/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count324
+\c@bookmark@seq@number=\count325
+
+(/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip74
+)
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen173
+\ar@mcellbox=\box51
+\extrarowheight=\dimen174
+\NC@list=\toks26
+\extratabsurround=\skip75
+\backup@length=\skip76
+\ar@cellbox=\box52
+)
+(/usr/share/texmf/tex/latex/minted/minted.sty
+Package: minted 2021/12/24 v2.6 Yet another Pygments shim for LaTeX
+
+(/usr/share/texmf/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2019/02/04 v1.4 fvextra - extensions and patches for fancyvrb
+
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count326
+)
+(/usr/share/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2022/04/12 4.2 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count327
+\FV@InFile=\read3
+\FV@TabBox=\box53
+\c@FancyVerbLine=\count328
+\FV@StepNumber=\count329
+\FV@OutFile=\write3
+)
+(/usr/share/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+))
+(/usr/share/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count330
+\output=\toks27
+\linenoprevgraf=\count331
+\linenumbersep=\dimen175
+\linenumberwidth=\dimen176
+\c@linenumber=\count332
+\c@pagewiselinenumber=\count333
+\c@LN@truepage=\count334
+\c@internallinenumber=\count335
+\c@internallinenumbers=\count336
+\quotelinenumbersep=\dimen177
+\bframerule=\dimen178
+\bframesep=\dimen179
+\bframebox=\box54
+LaTeX Info: Redefining \\ on input line 3056.
+)
+\c@FV@TrueTabGroupLevel=\count337
+\c@FV@TrueTabCounter=\count338
+\FV@TabBox@Group=\box55
+\FV@TmpLength=\skip77
+\c@FV@HighlightLinesStart=\count339
+\c@FV@HighlightLinesStop=\count340
+\FV@LoopCount=\count341
+\FV@NCharsBox=\box56
+\FV@BreakIndent=\dimen180
+\FV@BreakIndentNChars=\count342
+\FV@BreakSymbolSepLeft=\dimen181
+\FV@BreakSymbolSepLeftNChars=\count343
+\FV@BreakSymbolSepRight=\dimen182
+\FV@BreakSymbolSepRightNChars=\count344
+\FV@BreakSymbolIndentLeft=\dimen183
+\FV@BreakSymbolIndentLeftNChars=\count345
+\FV@BreakSymbolIndentRight=\dimen184
+\FV@BreakSymbolIndentRightNChars=\count346
+\c@FancyVerbLineBreakLast=\count347
+\FV@LineBox=\box57
+\FV@LineIndentBox=\box58
+\FV@LineWidth=\dimen185
+)
+(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count348
+\calc@Bcount=\count349
+\calc@Adimen=\dimen186
+\calc@Bdimen=\dimen187
+\calc@Askip=\skip78
+\calc@Bskip=\skip79
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count350
+\calc@Cskip=\skip80
+)
+(/usr/share/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+)
+(/usr/share/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(/usr/share/texmf-dist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+)
+(/usr/share/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+runsystem(uname -s > "main.w18")...executed.
+
+ (./main.w18)
+runsystem(rm -- "main.w18")...executed.
+
+)
+(/usr/share/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count351
+\decimalpart=\count352
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+)
+(/usr/share/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip81
+\fb@frw=\dimen188
+\fb@frh=\dimen189
+\FrameRule=\dimen190
+\FrameSep=\dimen191
+)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count353
+\float@exts=\toks28
+\float@box=\box59
+\@float@everytoks=\toks29
+\@floatcapt=\box60
+)
+\minted@appexistsfile=\read4
+\minted@bgbox=\box61
+\minted@code=\write4
+\c@minted@FancyVerbLineTemp=\count354
+\c@minted@pygmentizecounter=\count355
+\@float@every@listing=\toks30
+\c@listing=\count356
+)
+runsystem(mkdir -p _minted-main)...executed.
+
+
+(/usr/share/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2022/01/07 version 5.0.2 text color boxes
+
+(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen192
+\pgfutil@tempdimb=\dimen193
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex))
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box62
+)
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks34
+))
+\pgf@x=\dimen194
+\pgf@y=\dimen195
+\pgf@xa=\dimen196
+\pgf@ya=\dimen197
+\pgf@xb=\dimen198
+\pgf@yb=\dimen199
+\pgf@xc=\dimen256
+\pgf@yc=\dimen257
+\pgf@xd=\dimen258
+\pgf@yd=\dimen259
+\w@pgf@writea=\write5
+\r@pgf@reada=\read5
+\c@pgf@counta=\count357
+\c@pgf@countb=\count358
+\c@pgf@countc=\count359
+\c@pgf@countd=\count360
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
+\pgf@sys@id@count=\count361
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count362
+\pgfsyssoftpath@bigbuffer@items=\count363
+)
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen260
+\pgfmath@count=\count364
+\pgfmath@box=\box63
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
+)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
+.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
+x) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
+.code.tex))) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count365
+)) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen261
+\pgf@picmaxx=\dimen262
+\pgf@picminy=\dimen263
+\pgf@picmaxy=\dimen264
+\pgf@pathminx=\dimen265
+\pgf@pathmaxx=\dimen266
+\pgf@pathminy=\dimen267
+\pgf@pathmaxy=\dimen268
+\pgf@xx=\dimen269
+\pgf@xy=\dimen270
+\pgf@yx=\dimen271
+\pgf@yy=\dimen272
+\pgf@zx=\dimen273
+\pgf@zy=\dimen274
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen275
+\pgf@path@lasty=\dimen276
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen277
+\pgf@shorten@start@additional=\dimen278
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box64
+\pgf@hbox=\box65
+\pgf@layerbox@main=\box66
+\pgf@picture@serial@count=\count366
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen279
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+ex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen280
+\pgf@pt@y=\dimen281
+\pgf@pt@temp=\dimen282
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+x
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen283
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen284
+\pgf@sys@shading@range@num=\count367
+\pgf@shadingcount=\count368
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box67
+))
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box68
+)
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen285
+\pgf@nodesepend=\dimen286
+)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks41
+\verbatim@line=\toks42
+\verbatim@in@stream=\read6
+)
+(/usr/share/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/share/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks43
+)
+\tcb@titlebox=\box69
+\tcb@upperbox=\box70
+\tcb@lowerbox=\box71
+\tcb@phantombox=\box72
+\c@tcbbreakpart=\count369
+\c@tcblayer=\count370
+\c@tcolorbox@number=\count371
+\tcb@temp=\box73
+\tcb@temp=\box74
+\tcb@temp=\box75
+\tcb@temp=\box76
+)
+runsystem(which pygmentize && touch main.aex)...executed.
+
+runsystem(rm main.aex)...executed.
+
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count372
+\l__pdf_internal_box=\box77
+) (./main.aux
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@8' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@8' multiply defined.
+
+
+LaTeX Warning: Label `question@9' multiply defined.
+
+
+LaTeX Warning: Label `question@10' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@8' multiply defined.
+
+
+LaTeX Warning: Label `question@9' multiply defined.
+
+
+LaTeX Warning: Label `question@10' multiply defined.
+
+
+LaTeX Warning: Label `question@11' multiply defined.
+
+
+LaTeX Warning: Label `question@12' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@8' multiply defined.
+
+
+LaTeX Warning: Label `question@9' multiply defined.
+
+
+LaTeX Warning: Label `question@10' multiply defined.
+
+
+LaTeX Warning: Label `question@11' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@8' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@8' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@8' multiply defined.
+
+
+LaTeX Warning: Label `question@9' multiply defined.
+
+
+LaTeX Warning: Label `question@10' multiply defined.
+
+
+LaTeX Warning: Label `question@11' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@8' multiply defined.
+
+
+LaTeX Warning: Label `question@9' multiply defined.
+
+
+LaTeX Warning: Label `question@10' multiply defined.
+
+
+LaTeX Warning: Label `question@1' multiply defined.
+
+
+LaTeX Warning: Label `question@2' multiply defined.
+
+
+LaTeX Warning: Label `question@3' multiply defined.
+
+
+LaTeX Warning: Label `question@4' multiply defined.
+
+
+LaTeX Warning: Label `question@5' multiply defined.
+
+
+LaTeX Warning: Label `question@6' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Info: Redefining \degres on input line 32.
+LaTeX Info: Redefining \up on input line 32.
+ (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count373
+\scratchdimen=\dimen287
+\scratchbox=\box78
+\nofMPsegments=\count374
+\nofMParguments=\count375
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count376
+\MPscratchDim=\dimen288
+\MPnumerator=\count377
+\makeMPintoPDFobject=\count378
+\everyMPtoPDFconversion=\toks45
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=702.78308pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-32.1381pt
+* \headheight=16.0pt
+* \headsep=15.0pt
+* \topskip=12.0pt
+* \footskip=29.0pt
+* \marginparwidth=36.135pt
+* \marginparsep=5.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 32.
+Package hyperref Info: Link coloring OFF on input line 32.
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count379
+)
+LaTeX Info: Redefining \ref on input line 32.
+LaTeX Info: Redefining \pageref on input line 32.
+LaTeX Info: Redefining \nameref on input line 32.
+
+(./main.out) (./main.out)
+\@outlinefile=\write6
+\openout6 = `main.out'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+DejaVuSansMono-TLF o
+n input line 64.
+(/usr/share/texmf-dist/tex/latex/dejavu/T1DejaVuSansMono-TLF.fd
+File: T1DejaVuSansMono-TLF.fd 2011/06/01 Font definitions for T1/DejaVuSansMono
+-TLF.
+)
+\openout4 = `main.pyg'.
+
+
+(./_minted-main/default.pygstyle)
+(./_minted-main/05F751E04C2678AFE2AB58ECC06B82CE82CA0C42AFE0759A4F1491A6B69BC02
+A.pygtex)
+\openout4 = `main.pyg'.
+
+
+(./_minted-main/5313562ACE7540CDCCDC0C12C041E2C182CA0C42AFE0759A4F1491A6B69BC02
+A.pygtex)
+\openout4 = `main.pyg'.
+
+
+(./_minted-main/8577132EF17C45B51B733994BD166F4F82CA0C42AFE0759A4F1491A6B69BC02
+A.pygtex)
+\openout4 = `main.pyg'.
+
+
+(./_minted-main/AD977BAE0CF067614860E72D73C103BE82CA0C42AFE0759A4F1491A6B69BC02
+A.pygtex)
+\openout4 = `main.pyg'.
+
+
+(./_minted-main/7E0A27DAAC38FB6F207B9B472F29A68382CA0C42AFE0759A4F1491A6B69BC02
+A.pygtex)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 87.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 87.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 87.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<figures/git1.png, id=104, 313.9228pt x 244.66406pt>
+File: figures/git1.png Graphic file (type png)
+<use figures/git1.png>
+Package pdftex.def Info: figures/git1.png  used on input line 91.
+(pdftex.def)             Requested size: 229.36917pt x 178.7638pt.
+\openout4 = `main.pyg'.
+
+
+(./_minted-main/D5A69957812BFACCD76E5B05C10AD7A682CA0C42AFE0759A4F1491A6B69BC02
+A.pygtex)
+\openout4 = `main.pyg'.
+
+
+(./_minted-main/D27C2CCC166FD5550124E367C81990AD82CA0C42AFE0759A4F1491A6B69BC02
+A.pygtex)
+\openout4 = `main.pyg'.
+
+
+(./_minted-main/BDC715F8C114BA41D4402DA3DDF260A982CA0C42AFE0759A4F1491A6B69BC02
+A.pygtex)
+\openout4 = `main.pyg'.
+
+
+(./_minted-main/7E0A27DAAC38FB6F207B9B472F29A68382CA0C42AFE0759A4F1491A6B69BC02
+A.pygtex)
+\openout4 = `main.pyg'.
+
+
+(./_minted-main/5313562ACE7540CDCCDC0C12C041E2C182CA0C42AFE0759A4F1491A6B69BC02
+A.pygtex) [2 <./figures/git1.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+<figures/kicad03.png, id=120, 111.41624pt x 149.05687pt>
+File: figures/kicad03.png Graphic file (type png)
+<use figures/kicad03.png>
+Package pdftex.def Info: figures/kicad03.png  used on input line 146.
+(pdftex.def)             Requested size: 91.74626pt x 122.74371pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+[3 <./figures/kicad03.png (PNG copy)>]
+<figures/kicad04.png, id=141, 134.00063pt x 150.5625pt>
+File: figures/kicad04.png Graphic file (type png)
+<use figures/kicad04.png>
+Package pdftex.def Info: figures/kicad04.png  used on input line 150.
+(pdftex.def)             Requested size: 91.74626pt x 103.08414pt.
+<figures/kicad06.png, id=142, 104.64093pt x 53.44969pt>
+File: figures/kicad06.png Graphic file (type png)
+<use figures/kicad06.png>
+Package pdftex.def Info: figures/kicad06.png  used on input line 156.
+(pdftex.def)             Requested size: 91.74626pt x 46.86295pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+<figures/cube01.png, id=143, 454.69875pt x 386.19281pt>
+File: figures/cube01.png Graphic file (type png)
+<use figures/cube01.png>
+Package pdftex.def Info: figures/cube01.png  used on input line 172.
+(pdftex.def)             Requested size: 229.36917pt x 194.81073pt.
+[4 <./figures/kicad04.png (PNG copy)> <./figures/kicad06.png (PNG copy)> <./fig
+ures/cube01.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+<figures/kicad07.png, id=155, 428.35031pt x 584.1825pt>
+File: figures/kicad07.png Graphic file (type png)
+<use figures/kicad07.png>
+Package pdftex.def Info: figures/kicad07.png  used on input line 190.
+(pdftex.def)             Requested size: 214.17462pt x 292.09053pt.
+[5 <./figures/kicad07.png (PNG copy)>]
+<figures/kicad08.png, id=165, 974.13937pt x 515.67656pt>
+File: figures/kicad08.png Graphic file (type png)
+<use figures/kicad08.png>
+Package pdftex.def Info: figures/kicad08.png  used on input line 212.
+(pdftex.def)             Requested size: 292.24406pt x 154.70415pt.
+<figures/kicad09.png, id=166, 688.07062pt x 590.205pt>
+File: figures/kicad09.png Graphic file (type png)
+<use figures/kicad09.png>
+Package pdftex.def Info: figures/kicad09.png  used on input line 218.
+(pdftex.def)             Requested size: 275.22337pt x 236.0778pt.
+LaTeX Font Info:    Trying to load font information for T1+DejaVuSerif-TLF on i
+nput line 221.
+
+(/usr/share/texmf-dist/tex/latex/dejavu/T1DejaVuSerif-TLF.fd
+File: T1DejaVuSerif-TLF.fd 2011/06/01 Font definitions for T1/DejaVuSerif-TLF.
+) [6 <./figures/kicad08.png (PNG copy)> <./figures/kicad09.png (PNG copy)>]
+<figures/kicad10.png, id=181, 1185.67969pt x 402.75468pt>
+File: figures/kicad10.png Graphic file (type png)
+<use figures/kicad10.png>
+Package pdftex.def Info: figures/kicad10.png  used on input line 228.
+(pdftex.def)             Requested size: 474.26347pt x 161.09901pt.
+
+Overfull \hbox (15.52513pt too wide) in paragraph at lines 228--229
+ [] 
+ []
+
+
+Overfull \hbox (3.75484pt too wide) in paragraph at lines 232--233
+[]\T1/DejaVuSans-TLF/m/n/12 Numérotez les com-po-sants en cli-quant sur \T1/Dej
+aVuSansMono-TLF/m/n/12 Tools > An-no-tate Sche-ma-tic... 
+ []
+
+<figures/kicad13.png, id=182, 589.4522pt x 129.48375pt>
+File: figures/kicad13.png Graphic file (type png)
+<use figures/kicad13.png>
+Package pdftex.def Info: figures/kicad13.png  used on input line 238.
+(pdftex.def)             Requested size: 458.73834pt x 100.77167pt.
+[7 <./figures/kicad10.png (PNG copy)> <./figures/kicad13.png (PNG copy)>]
+<figures/kicad15.png, id=193, 604.50844pt x 432.86719pt>
+File: figures/kicad15.png Graphic file (type png)
+<use figures/kicad15.png>
+Package pdftex.def Info: figures/kicad15.png  used on input line 250.
+(pdftex.def)             Requested size: 458.73834pt x 328.48709pt.
+<figures/kicad16.png, id=195, 192.72pt x 27.85406pt>
+File: figures/kicad16.png Graphic file (type png)
+<use figures/kicad16.png>
+Package pdftex.def Info: figures/kicad16.png  used on input line 253.
+(pdftex.def)             Requested size: 166.05649pt x 24.0pt.
+
+[8 <./figures/kicad15.png> <./figures/kicad16.png (PNG copy)>]
+<figures/kicad18.png, id=206, 718.93594pt x 438.13687pt>
+File: figures/kicad18.png Graphic file (type png)
+<use figures/kicad18.png>
+Package pdftex.def Info: figures/kicad18.png  used on input line 279.
+(pdftex.def)             Requested size: 366.99207pt x 223.66077pt.
+<figures/kicad19.png, id=207, 279.29344pt x 267.24844pt>
+File: figures/kicad19.png Graphic file (type png)
+<use figures/kicad19.png>
+Package pdftex.def Info: figures/kicad19.png  used on input line 289.
+(pdftex.def)             Requested size: 139.64638pt x 133.62389pt.
+<figures/kicad20.png, id=208, 437.38406pt x 74.52844pt>
+File: figures/kicad20.png Graphic file (type png)
+<use figures/kicad20.png>
+Package pdftex.def Info: figures/kicad20.png  used on input line 295.
+(pdftex.def)             Requested size: 366.99207pt x 62.53407pt.
+ [9 <./figures/kicad18.png (PNG copy)> <./figures/kicad19.png (PNG copy)> <./fi
+gures/kicad20.png>]
+<figures/kicad21.png, id=220, 685.05937pt x 575.90157pt>
+File: figures/kicad21.png Graphic file (type png)
+<use figures/kicad21.png>
+Package pdftex.def Info: figures/kicad21.png  used on input line 306.
+(pdftex.def)             Requested size: 321.11543pt x 269.95319pt.
+<figures/kicad22.png, id=221, 685.05937pt x 575.90157pt>
+File: figures/kicad22.png Graphic file (type png)
+<use figures/kicad22.png>
+Package pdftex.def Info: figures/kicad22.png  used on input line 313.
+(pdftex.def)             Requested size: 321.11543pt x 269.95319pt.
+ [10 <./figures/kicad21.png (PNG copy)> <./figures/kicad22.png (PNG copy)>]
+<figures/kicad23.png, id=230, 84.315pt x 30.1125pt>
+File: figures/kicad23.png Graphic file (type png)
+<use figures/kicad23.png>
+Package pdftex.def Info: figures/kicad23.png  used on input line 319.
+(pdftex.def)             Requested size: 67.20119pt x 24.0pt.
+<figures/kicad25.png, id=231, 1003.49907pt x 574.39594pt>
+File: figures/kicad25.png Graphic file (type png)
+<use figures/kicad25.png>
+Package pdftex.def Info: figures/kicad25.png  used on input line 339.
+(pdftex.def)             Requested size: 458.73834pt x 262.57759pt.
+
+[11 <./figures/kicad23.png (PNG copy)> <./figures/kicad25.png>]
+<figures/kicad26.png, id=243, 1003.49907pt x 574.39594pt>
+File: figures/kicad26.png Graphic file (type png)
+<use figures/kicad26.png>
+Package pdftex.def Info: figures/kicad26.png  used on input line 346.
+(pdftex.def)             Requested size: 458.73834pt x 262.57759pt.
+<figures/kicad30.png, id=244, 1002.74625pt x 435.87843pt>
+File: figures/kicad30.png Graphic file (type png)
+<use figures/kicad30.png>
+Package pdftex.def Info: figures/kicad30.png  used on input line 351.
+(pdftex.def)             Requested size: 458.73834pt x 199.4091pt.
+ [12 <./figures/kicad26.png (PNG copy)> <./figures/kicad30.png (PNG copy)>]
+<figures/kicad28.png, id=252, 726.46407pt x 627.84563pt>
+File: figures/kicad28.png Graphic file (type png)
+<use figures/kicad28.png>
+Package pdftex.def Info: figures/kicad28.png  used on input line 362.
+(pdftex.def)             Requested size: 366.99207pt x 317.17928pt.
+ [13 <./figures/kicad28.png (PNG copy)>]
+<figures/kicad31.png, id=263, 721.19438pt x 643.6547pt>
+File: figures/kicad31.png Graphic file (type png)
+<use figures/kicad31.png>
+Package pdftex.def Info: figures/kicad31.png  used on input line 383.
+(pdftex.def)             Requested size: 432.71997pt x 386.1958pt.
+ [14 <./figures/kicad31.png (PNG copy)>]
+<figures/kicad32.png, id=272, 831.105pt x 526.21594pt>
+File: figures/kicad32.png Graphic file (type png)
+<use figures/kicad32.png>
+Package pdftex.def Info: figures/kicad32.png  used on input line 389.
+(pdftex.def)             Requested size: 498.66684pt x 315.732pt.
+
+Overfull \hbox (39.9285pt too wide) in paragraph at lines 389--390
+ [] 
+ []
+
+[15 <./figures/kicad32.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
+
+ []
+
+[16]
+<figures/cube02.png, id=287, 694.09312pt x 493.845pt>
+File: figures/cube02.png Graphic file (type png)
+<use figures/cube02.png>
+Package pdftex.def Info: figures/cube02.png  used on input line 429.
+(pdftex.def)             Requested size: 412.8617pt x 293.75476pt.
+
+Overfull \hbox (9.3382pt too wide) in paragraph at lines 432--434
+\T1/DejaVuSans-TLF/m/n/12 de la do-cu-men-ta-tion. Vous au-rez be-soin du \T1/D
+ejaVuSans-TLF/m/it/12 Re-fe-rence Ma-nual \T1/DejaVuSans-TLF/m/n/12 du STM32L02
+1K4
+ []
+
+\openout4 = `main.pyg'.
+
+
+(./_minted-main/A6FA2BFEB252BDB4353F248EFB1BCA6D2A9720D6D16074E754EC237403610E6
+A.pygtex) [17 <./figures/cube02.png>]
+Overfull \hbox (3.15335pt too wide) in paragraph at lines 441--443
+[]\T1/DejaVuSans-TLF/m/n/12 Configurer le ti-mer de la LED pour ob-te-nir une f
+ré-quence de dé-cou-page d'1kHz
+ []
+
+\openout3 = `main.pyg'.
+
+
+(./_minted-main/44CE7C11321DD54703DC4FA3F812966B2A9720D6D16074E754EC237403610E6
+A.pygtex)
+\openout3 = `main.pyg'.
+
+
+(./_minted-main/6BC80B8AE9133DFD4A7549547FB048052A9720D6D16074E754EC237403610E6
+A.pygtex) [18]
+\openout3 = `main.pyg'.
+
+
+(./_minted-main/7944C59FA41E342DD7F664380DB364BB2A9720D6D16074E754EC237403610E6
+A.pygtex)
+\openout4 = `main.pyg'.
+
+
+(./_minted-main/872AD65BC9B1D03E076E7545CFF58DA92A9720D6D16074E754EC237403610E6
+A.pygtex)
+\openout3 = `main.pyg'.
+
+
+(./_minted-main/AF5B3D02C1A889A4BE1F9AAF77136A282A9720D6D16074E754EC237403610E6
+A.pygtex
+LaTeX Font Info:    Trying to load font information for TS1+DejaVuSansMono-TLF 
+on input line 4.
+ (/usr/share/texmf-dist/tex/latex/dejavu/TS1DejaVuSansMono-TLF.fd
+File: TS1DejaVuSansMono-TLF.fd 2011/06/01 Font definitions for TS1/DejaVuSansMo
+no-TLF.
+))
+\openout3 = `main.pyg'.
+
+
+(./_minted-main/2B105D6CF5821C56E0AAD8BACC1013F12A9720D6D16074E754EC237403610E6
+A.pygtex) [19]
+\openout3 = `main.pyg'.
+
+
+(./_minted-main/8867111A06C212BE5F2B81AF6EA6272A2A9720D6D16074E754EC237403610E6
+A.pygtex)
+\openout3 = `main.pyg'.
+
+
+(./_minted-main/C140910363894EC2AB18286810FFDC342A9720D6D16074E754EC237403610E6
+A.pygtex)
+\openout4 = `main.pyg'.
+
+
+(./_minted-main/872AD65BC9B1D03E076E7545CFF58DA92A9720D6D16074E754EC237403610E6
+A.pygtex)
+\openout4 = `main.pyg'.
+
+
+(./_minted-main/440A529E50F1EB92D852C4671F7BFF132A9720D6D16074E754EC237403610E6
+A.pygtex) [20]
+\openout3 = `main.pyg'.
+
+
+(./_minted-main/F5FB29788912ABF7FE5F8EC9DDE23F762A9720D6D16074E754EC237403610E6
+A.pygtex)
+\openout3 = `main.pyg'.
+
+
+(./_minted-main/8A861F19D9B11C31156E15C332EAA96E2A9720D6D16074E754EC237403610E6
+A.pygtex) [21]
+<figures/rc.png, id=363, 112.92188pt x 134.00063pt>
+File: figures/rc.png Graphic file (type png)
+<use figures/rc.png>
+Package pdftex.def Info: figures/rc.png  used on input line 602.
+(pdftex.def)             Requested size: 119.26944pt x 141.54106pt.
+\openout3 = `main.pyg'.
+
+
+(./_minted-main/A85EDFCE8612A2F75D70FD9EB8D97FC32A9720D6D16074E754EC237403610E6
+A.pygtex)
+\openout3 = `main.pyg'.
+
+
+(./_minted-main/76C2E2DCCF6345CEE16060FAB43809882A9720D6D16074E754EC237403610E6
+A.pygtex) [22 <./figures/rc.png>] [23]
+This exam contains 133 questions with 7 parts, 0 subparts, and 0 subsubparts.
+This exam has a total of 0 points.
+This exam has a total of 0 bonus points.
+
+AED: lastpage setting LastPage
+(./main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: FB98F2495E631F0FF4A9FA550452F2AD;3243.
+runsystem(rm main.pyg)...executed.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 27003 strings out of 478238
+ 516505 string characters out of 5850455
+ 842460 words of memory out of 5000000
+ 44528 multiletter control sequences out of 15000+600000
+ 498677 words of font info for 64 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 83i,10n,89p,442b,636s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_ts1.enc}{/usr/share/
+texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc}{/usr/share/texmf-dis
+t/fonts/enc/dvips/dejavu/dejavuserif_t1-type1.enc}{/usr/share/texmf-dist/fonts/
+enc/dvips/dejavu/dejavusans_t1-type1.enc}</usr/share/texmf-dist/fonts/type1/pub
+lic/dejavu/DejaVuSans-Bold.pfb></usr/share/texmf-dist/fonts/type1/public/dejavu
+/DejaVuSans-Oblique.pfb></usr/share/texmf-dist/fonts/type1/public/dejavu/DejaVu
+Sans.pfb></usr/share/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono-Bold.p
+fb></usr/share/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono-Oblique.pfb>
+</usr/share/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono.pfb></usr/share
+/texmf-dist/fonts/type1/public/dejavu/DejaVuSerif.pfb></usr/share/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy8.pfb>
+Output written on main.pdf (23 pages, 1180137 bytes).
+PDF statistics:
+ 512 PDF objects out of 1000 (max. 8388607)
+ 422 compressed objects within 5 object streams
+ 188 named destinations out of 1000 (max. 500000)
+ 303 words of extra memory for PDF output out of 10000 (max. 10000000)
+

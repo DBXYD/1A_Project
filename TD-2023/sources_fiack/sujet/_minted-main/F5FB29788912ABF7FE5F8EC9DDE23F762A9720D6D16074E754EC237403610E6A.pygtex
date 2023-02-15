@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{AnalogInInit}\PYG{p}{(}\PYG{k+kt}{void}\PYG{p}{);}
+\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{AnalogInStartConversion}\PYG{p}{(}\PYG{k+kt}{void}\PYG{p}{);}
+\PYG{c+c1}{// Cette fonction fait du polling, même si c\PYGZsq{}est pas bien}
+\PYG{k+kt}{uint16\PYGZus{}t}\PYG{+w}{ }\PYG{n+nf}{AnalogInGetValue}\PYG{p}{(}\PYG{k+kt}{void}\PYG{p}{);}
+\end{Verbatim}

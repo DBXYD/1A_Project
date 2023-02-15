@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+c1}{// Démarre le timer}
+\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{LedStart}\PYG{p}{(}\PYG{k+kt}{void}\PYG{p}{);}
+\PYG{c+c1}{// Configure le rapport cyclique de la PWM entre 0 et 255}
+\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{LedSetValue}\PYG{p}{(}\PYG{k+kt}{uint8\PYGZus{}t}\PYG{+w}{ }\PYG{n}{val}\PYG{p}{);}
+\PYG{c+c1}{// À chaque appel, cette fonction incrémente la luminosité de la LED}
+\PYG{c+c1}{// Arrivé à la valeur maximale, chaque appel décrémente la LED}
+\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{LedPulse}\PYG{p}{(}\PYG{k+kt}{void}\PYG{p}{);}
+\end{Verbatim}

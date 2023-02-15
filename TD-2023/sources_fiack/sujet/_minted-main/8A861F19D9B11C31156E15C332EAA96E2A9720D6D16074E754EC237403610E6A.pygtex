@@ -1,0 +1,10 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{TIM21\PYGZus{}IRQHandler}\PYG{p}{(}\PYG{k+kt}{void}\PYG{p}{)}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
+\PYG{+w}{    }\PYG{p}{[...]}
+
+\PYG{+w}{    }\PYG{n}{AnalogInStartConversion}\PYG{p}{();}
+\PYG{+w}{    }\PYG{k+kt}{uint16\PYGZus{}t}\PYG{+w}{ }\PYG{n}{ADCValue}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{AnalogInGetValue}\PYG{p}{();}
+\PYG{+w}{    }\PYG{k+kt}{uint16\PYGZus{}t}\PYG{+w}{ }\PYG{n}{DACValue}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{ADCValue}\PYG{p}{;}
+\PYG{+w}{    }\PYG{n}{AnalogOutConvert}\PYG{p}{(}\PYG{n}{DACValue}\PYG{p}{);}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

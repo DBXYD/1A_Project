@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+c1}{// Cette fonction pourra être utilisée par le Shell v0.4}
+\PYG{k+kt}{uint8\PYGZus{}t}\PYG{+w}{ }\PYG{n+nf}{SerialTransmit}\PYG{p}{(}\PYG{k+kt}{char}\PYG{+w}{ }\PYG{o}{*}\PYG{+w}{ }\PYG{n}{pData}\PYG{p}{,}\PYG{+w}{ }\PYG{k+kt}{uint16\PYGZus{}t}\PYG{+w}{ }\PYG{n}{Size}\PYG{p}{);}
+\PYG{c+c1}{// Dans cet exemple, on fait du polling, et c\PYGZsq{}est pas très grave}
+\PYG{k+kt}{char}\PYG{+w}{ }\PYG{n+nf}{SerialReceiveChar}\PYG{p}{(}\PYG{k+kt}{void}\PYG{p}{);}
+\end{Verbatim}

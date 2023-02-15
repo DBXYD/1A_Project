@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{AnalogOutInit}\PYG{p}{(}\PYG{k+kt}{void}\PYG{p}{);}
+\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{AnalogOutConvert}\PYG{p}{(}\PYG{k+kt}{uint16\PYGZus{}t}\PYG{+w}{ }\PYG{n}{value}\PYG{p}{);}
+\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{AnalogOutPulse}\PYG{p}{(}\PYG{k+kt}{uint16\PYGZus{}t}\PYG{+w}{ }\PYG{n}{increment}\PYG{p}{);}
+\end{Verbatim}

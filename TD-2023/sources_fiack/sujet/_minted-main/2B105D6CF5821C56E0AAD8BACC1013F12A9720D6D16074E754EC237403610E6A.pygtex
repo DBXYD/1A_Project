@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+cm}{/* USER CODE BEGIN WHILE */}
+\PYG{k}{while}\PYG{+w}{ }\PYG{p}{(}\PYG{l+m+mi}{1}\PYG{p}{)}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
+\PYG{+w}{    }\PYG{k+kt}{char}\PYG{+w}{ }\PYG{n}{ch}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{SerialReceiveChar}\PYG{p}{();}
+\PYG{+w}{    }\PYG{n}{SerialTransmit}\PYG{p}{(}\PYG{n}{ch}\PYG{p}{,}\PYG{+w}{ }\PYG{l+m+mi}{1}\PYG{p}{);}
+\PYG{+w}{    }\PYG{c+cm}{/* USER CODE END WHILE */}
+
+\PYG{+w}{    }\PYG{c+cm}{/* USER CODE BEGIN 3 */}
+\PYG{p}{\PYGZcb{}}
+\PYG{c+cm}{/* USER CODE END 3 */}
+\end{Verbatim}
