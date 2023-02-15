@@ -71,12 +71,12 @@ L'ensemble de cette méthode sera appliqué sur exemple de drone.
 * Différences entre les technologie (espace, prix, dissipation thermiques, etc...)
 * Types de condensateurs : céramique, électrolytique, tantale,
 * Liste des packages : 
- * Résistances / condensateurs : 0201, 0402, 0603, 0805, etc...
- * Formats : DIP, BGA, QFN, SO, HSOP, HTSSOP, QSOP, SOIC, SOP, SSO, SSOP, TSOP, TSSOP
- * Connecteurs : Pin header/socket, JST-XH, Molex, etc...
+  * Résistances / condensateurs : 0201, 0402, 0603, 0805, etc...
+  * Formats : DIP, BGA, QFN, SO, HSOP, HTSSOP, QSOP, SOIC, SOP, SSO, SSOP, TSOP, TSSOP
+  * Connecteurs : Pin header/socket, JST-XH, Molex, etc...
 * Association des empreintes à chaque schéma :
- * Téléchargement des empreintes (snapeda)
- * Réalisation des empreintes introuvables
+  * Téléchargement des empreintes (snapeda)
+  * (Réalisation des empreintes introuvables)
  
   
 
