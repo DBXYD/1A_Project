@@ -59,6 +59,10 @@ L'ensemble de cette méthode sera appliqué sur exemple de drone.
   * Conrad, comme Gotronic,
   * Miniplanes, orienté drone, avion, voiture RC, batterie LiPo, Li-Ion, etc...
 * Lecture des datasheets
+  * 1er page - description
+  * Application note : schéma de référence
+  * Tension ...
+  * Absolute maximum ratings
 
 ### Réalisation d'un diagramme d'architecture
 * Par où commencer ?
@@ -67,9 +71,10 @@ L'ensemble de cette méthode sera appliqué sur exemple de drone.
 
 ### Transposition dans un logiciel de création de PCB (schematic) :
 * Présentation des empreintes standard (footprint) :
-* CMS/SMD vs THT
+* SMD vs THT
 * Différences entre les technologie (espace, prix, dissipation thermiques, etc...)
 * Types de condensateurs : céramique, électrolytique, tantale,
+* Valeur de tension max
 * Liste des packages : 
   * Résistances / condensateurs : 0201, 0402, 0603, 0805, etc...
   * Formats : DIP, BGA, QFN, SO, HSOP, HTSSOP, QSOP, SOIC, SOP, SSO, SSOP, TSOP, TSSOP
