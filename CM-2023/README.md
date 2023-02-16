@@ -1,39 +1,3 @@
-Idées en vrac : 
-* Connecteurs : JST, Molex, PinHeader/PinSocket
-* 3D View
-* Export gerber
-* Octopart, SnapEda
-* Technologie régulateurs : régulateur linéaire vs à découpage, solution hacheur tout intégré,
-* Revendeur : farnell, mouser, gotronic, RS, etc...
-* Procédure de commande,
-* Sections Good Practice, Tips
-* Test points, solder bridge,
-* Comment répérer la 1ere pin d'un composant
-
-Stocks :
-| Type        | Localisation| Size        | Minimum value| Maximum value | Packaging          |
-|-------------|-------------|-------------|--------------|---------------|--------------------|
-| R           | Patricia    | 0402        | N.C.         | N.C.          | Samples            |
-| C           | Patricia    | 0402        | N.C.         | N.C.          | Samples            |
-| R           | Patricia    | 0603        | 0 Ω          | 1 MΩ          | Classeur           |
-| C           | Patricia    | 0603        | 1 pF         | 10 uF         | Kit Wurth (885060) |
-| R           | Patricia    | 0805        | 0 Ω          | 1 MΩ          | Classeur           |
-| R           | Patricia    | 0805        | 0.1 Ω        | 22 GΩ         | P. Boites          |
-| C           | Patricia    | 0805        | 1 pF         | 10 uF         | P. Boites          |
-| R           | Patricia    | 1206        | 0 Ω          | 1 MΩ          | Classeur           |
-| C           | Patricia    | 1206        | 1 pF         | 22 uF         | P. Boites          |
-| C           | Patricia    | 1206        | 1 pF         | 22 uF         | P. Boites          |
-| R           | Patricia    | 0805        | 0.0022 Ω     | 10 GΩ         | P. Boites          |
-| R           | Patricia    | 2512        | 0.3 Ω        | 1 kΩ          | Boite              |
-| C pol       | Patricia    | --          | 1 uF         | 2.2 mF        | Kit Wurth (865061) |
-
-Suppléments :
-* Mix Fablab 0603 en petites boites
-* XTAL Kit Wurth 830 001
-* XTAL Kit Wurth 830 002
-
-**A commander en plus à Wurth**
-
 # ENSEA - Projet de 1ere année
 
 ## Déroulé du cours
@@ -87,3 +51,38 @@ L'ensemble de cette méthode sera appliqué sur exemple de drone.
 
 
 
+Idées en vrac : 
+* Connecteurs : JST, Molex, PinHeader/PinSocket
+* 3D View
+* Export gerber
+* Octopart, SnapEda
+* Technologie régulateurs : régulateur linéaire vs à découpage, solution hacheur tout intégré,
+* Revendeur : farnell, mouser, gotronic, RS, etc...
+* Procédure de commande,
+* Sections Good Practice, Tips
+* Test points, solder bridge,
+* Comment répérer la 1ere pin d'un composant
+
+Stocks :
+| Type        | Localisation| Size        | Minimum value| Maximum value | Packaging          |
+|-------------|-------------|-------------|--------------|---------------|--------------------|
+| R           | Patricia    | 0402        | N.C.         | N.C.          | Samples            |
+| C           | Patricia    | 0402        | N.C.         | N.C.          | Samples            |
+| R           | Patricia    | 0603        | 0 Ω          | 1 MΩ          | Classeur           |
+| C           | Patricia    | 0603        | 1 pF         | 10 uF         | Kit Wurth (885060) |
+| R           | Patricia    | 0805        | 0 Ω          | 1 MΩ          | Classeur           |
+| R           | Patricia    | 0805        | 0.1 Ω        | 22 GΩ         | P. Boites          |
+| C           | Patricia    | 0805        | 1 pF         | 10 uF         | P. Boites          |
+| R           | Patricia    | 1206        | 0 Ω          | 1 MΩ          | Classeur           |
+| C           | Patricia    | 1206        | 1 pF         | 22 uF         | P. Boites          |
+| C           | Patricia    | 1206        | 1 pF         | 22 uF         | P. Boites          |
+| R           | Patricia    | 0805        | 0.0022 Ω     | 10 GΩ         | P. Boites          |
+| R           | Patricia    | 2512        | 0.3 Ω        | 1 kΩ          | Boite              |
+| C pol       | Patricia    | --          | 1 uF         | 2.2 mF        | Kit Wurth (865061) |
+
+Suppléments :
+* Mix Fablab 0603 en petites boites
+* XTAL Kit Wurth 830 001
+* XTAL Kit Wurth 830 002
+
+**A commander en plus à Wurth**
