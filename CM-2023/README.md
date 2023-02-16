@@ -79,6 +79,8 @@ Stocks :
 | R           | Patricia    | 0805        | 0.0022 Ω     | 10 GΩ         | P. Boites          |
 | R           | Patricia    | 2512        | 0.3 Ω        | 1 kΩ          | Boite              |
 | C pol       | Patricia    | --          | 1 uF         | 2.2 mF        | Kit Wurth (865061) |
+| R           | Chamberlain | 0805        | 0 Ω          | 1 MΩ          | Classeur           |
+
 
 Suppléments :
 * Mix Fablab 0603 en petites boites
